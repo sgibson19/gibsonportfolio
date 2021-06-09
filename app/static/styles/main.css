@@ -3,8 +3,15 @@ html {
     background-size: cover;
 }
 
-h1 {
+/* h1 {
     text-align: center;
+} */
+
+.about-section {
+  padding: 20px;
+  text-align: center;
+  
+  color: white;
 }
 
    /* Create four equal columns that floats next to each other */
