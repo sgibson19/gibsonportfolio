@@ -192,7 +192,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [stars-url]: https://github.com/github_username/repo/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/shantal/portfolio-team4.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/ShantalRipa/portfolio-team4.svg?style=for-the-badge
 [license-url]: https://github.com/MLH-Fellowship/portfolio-team4/blob/shantal/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/valeriemaccomish/
