@@ -87,8 +87,8 @@
 <!-- CONTRIBUTIONS -->
 ## Contributions
 
-1. Gibson Sanchez : Project Setup, About us Page, fun facts
-2. Ji-Oh Kim : Home Page
+1. Gibson Sanchez : Project Setup, About us Page
+2. Ji-Oh Kim : Home Page, Fun Facts page
 3. Valerie Mac Comish : README and LICENSE
 4. Shivi Chaubey : Task management
 
