@@ -32,23 +32,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/MLH-Fellowship/portfolio-team4">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Portfolio Website</h3>
 
   <p align="center">
-    project_description
+    A concise portfolio website that displays a bio, LinledIn and GitHub links, and a fun fact for each of the members of Pod 3.3.0 Team 4 Production track.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MLH-Fellowship/portfolio-team4"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/MLH-Fellowship/portfolio-team4">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/MLH-Fellowship/portfolio-team4/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/MLH-Fellowship/portfolio-team4/issues">Request Feature</a>
   </p>
 </p>
 
