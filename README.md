@@ -104,7 +104,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-MLH Fellowship Pod 3.3.0 - [@MLHacks](https://twitter.com/MLHacks) - admissions@mlhfellowship.recruitee.com
+MLH Fellowship - [@MLHacks](https://twitter.com/MLHacks) - admissions@mlhfellowship.recruitee.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/MLH-Fellowship/portfolio-team4)
 
