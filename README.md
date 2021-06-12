@@ -31,7 +31,7 @@
     <img src="images/logo.png" alt="Logo" width="800" height="150">
   </a>
 
-  <h3 align="center">Team 4 Portfolio Website</h3>
+  <h2 align="center">Team 4 Portfolio Website</h2>
 
   <p align="center">
     A concise portfolio website that displays a bio, LinkedIn and GitHub links, and a fun fact for each of the members of the team.
