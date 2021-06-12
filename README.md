@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MLH-Fellowship/portfolio-team4">
-    <img src="images/logo.png" alt="Logo" width="100" height="100">
+    <img src="images/logo.png" alt="Logo" width="800" height="800">
   </a>
 
   <h3 align="center">Team 4 Portfolio Website</h3>
