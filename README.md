@@ -57,7 +57,6 @@
     <li><a href="#contributions">Contributions</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -85,13 +84,13 @@
 3. Click on our names to access our pictures.
 
 
-<!-- CONTRIBUTING -->
+<!-- CONTRIBUTIONS -->
 ## Contributions
 
-1. @sgibson19 : Project Setup and About us Page
-2. @jioh-kim : Home Page
-3. @ShantalRipa : README and LICENSE
-4. @shivichaubey : Task management
+1. Gibson Sanchez : Project Setup, About us Page, fun facts
+2. Ji-Oh Kim : Home Page
+3. Valerie Mac Comish : README and LICENSE
+4. Shivi Chaubey : Task management
 
 
 
@@ -105,20 +104,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/MLHacks) - email
+Your Name - [@twitter_handle](https://twitter.com/MLHacks) - admissions@mlhfellowship.recruitee.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
+Project Link: [https://github.com/github_username/repo_name](https://github.com/MLH-Fellowship/portfolio-team4)
 
 
 
