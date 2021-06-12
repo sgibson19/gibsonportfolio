@@ -39,8 +39,6 @@
     <a href="https://github.com/MLH-Fellowship/portfolio-team4"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MLH-Fellowship/portfolio-team4">View Demo</a>
-    ·
     <a href="https://github.com/MLH-Fellowship/portfolio-team4/issues">Report Bug</a>
     ·
     <a href="https://github.com/MLH-Fellowship/portfolio-team4/issues">Request Feature</a>
