@@ -36,10 +36,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Portfolio Website</h3>
+  <h3 align="center">Team 4 Portfolio Website</h3>
 
   <p align="center">
-    A concise portfolio website that displays a bio, LinledIn and GitHub links, and a fun fact for each of the members of Pod 3.3.0 Team 4 Production track.
+    A concise portfolio website that displays a bio, LinledIn and GitHub links, and a fun fact for each of the members of the team.
     <br />
     <a href="https://github.com/MLH-Fellowship/portfolio-team4"><strong>Explore the docs »</strong></a>
     <br />
