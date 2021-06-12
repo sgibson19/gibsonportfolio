@@ -34,7 +34,7 @@
   <h3 align="center">Team 4 Portfolio Website</h3>
 
   <p align="center">
-    A concise portfolio website that displays a bio, LinledIn and GitHub links, and a fun fact for each of the members of the team.
+    A concise portfolio website that displays a bio, LinkedIn and GitHub links, and a fun fact for each of the members of the team.
     <br />
     <a href="https://github.com/MLH-Fellowship/portfolio-team4"><strong>Explore the docs »</strong></a>
     <br />
