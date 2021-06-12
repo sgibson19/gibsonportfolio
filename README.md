@@ -179,10 +179,10 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/MLH-Fellowship/ortfolio-team4.svg?style=for-the-badge
-[issues-url]: https://github.com/MLH-Fellowship/ortfolio-team4/issues
+[contributors-shield]: https://img.shields.io/github/contributors/MLH-Fellowship/portfolio-team4.svg?style=for-the-badge
+[contributors-url]: https://github.com/MLH-Fellowship/portfolio-team4/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/MLH-Fellowship/portfolio-team4.svg?style=for-the-badge
+[issues-url]: https://github.com/MLH-Fellowship/portfolio-team4/issues
 [license-shield]: https://img.shields.io/github/license/MLH-Fellowship/portfolio-team4.svg?style=for-the-badge
 [license-url]: https://github.com/MLH-Fellowship/portfolio-team4/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
