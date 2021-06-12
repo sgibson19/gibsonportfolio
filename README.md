@@ -20,7 +20,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![MLH LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -52,7 +52,7 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Home Page</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -76,7 +76,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Home Page
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -87,9 +87,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Python](https://www.python.org/)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 
 
 
@@ -184,4 +183,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/MLH-Fellowship/portfolio-team4.svg?style=for-the-badge
 [license-url]: https://github.com/MLH-Fellowship/portfolio-team4/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/valeriemaccomish/
+[linkedin-url]: https://www.linkedin.com/company/major-league-hacking/mycompany/
+[product-screenshot]: images/screenshot.png
