@@ -51,15 +51,10 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">Home Page</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">Home Page</a></li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contributions">Contributions</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -73,7 +68,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-### Built With
+## Built With
 
 * [Python](https://www.python.org/)
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
@@ -85,28 +80,18 @@
 
 1. Click on start button to acess bios and links.
    
-2. Click on About us tab to access fun facts about us.
+2. Click on About us tab to access fun facts about us. 
    
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
+3. Click on our names to access our pictures.
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributions
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. @sgibson19 : Project Setup and About us Page
+2. @jioh-kim : Home Page
+3. @ShantalRipa : README and LICENSE
+4. @shivichaubey : Task management
 
 
 
@@ -120,7 +105,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@twitter_handle](https://twitter.com/MLHacks) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
