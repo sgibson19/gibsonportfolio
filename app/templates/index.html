@@ -1,142 +1,137 @@
-<!DOCTYPE HTML>
-<!--
-	Helios by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>3.3.0-4</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="../static/assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="../static/assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="homepage is-preload">
-		<div id="page-wrapper">
+<!DOCTYPE html>
+<html lang="en">
 
-			<!-- Header -->
-				<div id="header">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../static/styles/style.css">
+  <link rel="shortcut icon" href="../static/img/favicon.ico"/>
+  <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <script
+    src="https://kit.fontawesome.com/9607112da2.js"
+    crossorigin="anonymous"
+    ></script>
+  <title>Gibson's Portfolio</title>
+</head>
 
-					<!-- Inner -->
-						<div class="inner">
-							<header>
-								<h1><a href="index.html" id="logo">MLH PRODUCTION ENGINEERING FELLOWS</a></h1>
-								<hr />
-								<p>Batch 3, Pod 3.3.0, Team 4</p>
-							</header>
-							<footer>
-								<a href="#banner" class="button circled scrolly">START!</a>
-							</footer>
-						</div>
-
-					<!-- Nav -->
-						<nav id="nav">
-							<ul>
-								<li><a href="index.html">Home</a></li>
-								<li><a href="/aboutus">About Us</a></li>
-								<li><a href="gibsonBlog.html">Gibson</a></li>
-								<li><a href="valerieBlog.html">Valerie</a></li>
-								<li><a href="jiohBlog.html">Ji-Oh</a></li>
-								<li><a href="shiviBlog.html">Shivi</a></li>
-							</ul>
-						</nav>
-
-				</div>
+<body>
+  <!-- Header -->
+  <section id="header">
+    <div class="header container">
+      <div class="nav-bar">
+        
+        <div class="nav-list">
+          <div class="hamburger">
+            <div class="bar"></div>
+          </div>
+          <ul>
+            <li><a href="#hero" data-after="Home">Home</a></li>
+            <li><a href="#projects" data-after="Projects">Projects</a></li>
+            <li><a href="#about" data-after="About">About Me</a></li>
+            <li><a href="#contact" data-after="Contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Header -->
 
 
-			<!-- Main -->
-				<div class="wrapper style2">
-					<article id="main" class="container special">
-						<a href="#" class="image featured"><img src="../static/img/pic06.jpg" alt="" /></a>
-						<header>
-							<h2><a href="#">Hello!</a></h2>
-							<p>
-								We are Gibson, Valerie, Ji-Oh, and Shivi.
-							</p>
-						</header>
-						<p>
-							This website contains information about us, links to our socials, and our blogs throughout our journey of being an MLH Fellow! Click the button below to get to know about us!
-						</p>
-						<footer>
-							<a href="/aboutus" class="button">About us</a>
-						</footer>
-					</article>
+  <!-- Hero Section  -->
+  <section id="hero">
+    <div class="hero container">
+      <div>
+        <h1>Hello, <span></span></h1>
+        <h1>My Name is <span></span></h1>
+        <h1>Gibson <span></span></h1>
+      </div>
+    </div>
+  </section>
+  <!-- End Hero Section  -->
 
-				</div>
 
-			<!-- Features -->
-				<div class="wrapper style1">
+  <!-- Projects Section -->
+  <section id="projects">
+    <div class="projects container">
+      <div class="projects-header">
+        <h1 class="section-title"><span>Projects</span></h1>
+      </div>
+      <div class="all-projects">
+		<div class="project-item">
+			<div class="project-info">
+			  <h1>MyBudget.</h1>
+			  <h2></h2>
+			  <p>MyBudget. is a web application that helps users track their income and expenses, has
+				  voice integration by using Speechly API to provide a better UI experience.
+			  </p>
+			</div>
+			<div class="project-img">
+			  <a href="https://glacial-fjord-40189.herokuapp.com/home"><img src="../static/img/mybudget.png"></a>
+			</div>
+		  </div>
+        <div class="project-item">
+          <div class="project-info">
+            <h1>FIFA World Cup Quiz</h1>
+            <h2></h2>
+            <p>FIFA World Cup Quiz is a web application where football/soccer fans can test their 
+				knowledge about the sport. Used JWT to allow registered users to access the quiz and SendGrid to 
+				allow users to receive a link to reset their passwords through their email.
+			</p>
+          </div>
+          <div class="project-img">
+            <a href="https://pure-sands-13311.herokuapp.com/home"><img src="../static/img/quiz.png"></a>
+          </div>
+        </div>
+        
+       
+    </div>
+  </section>
+  <!-- End Projects Section -->
 
-					<section id="features" class="container special">
-						<header>
-							<h2>Fun Fact about us!</h2>
-						</header>
-						<div class="row">
-							<article class="col-4 col-12-mobile special">
-								<a href="#" class="image featured"><img src="../static/img/pic09.jpg" alt="" /></a>
-								<header>
-									<h3><a href="#">Gibson</a></h3>
-								</header>
-								<p>
-								Fun fact about gibson
-								</p>
-							</article>
-							<article class="col-4 col-12-mobile special">
-								<a href="#" class="image featured"><img src="../static/img/pic08.jpg" alt="" /></a>
-								<header>
-									<h3><a href="#">Valerie</a></h3>
-								</header>
-								<p>
-									Fun fact about valerie
-								</p>
-							</article>
-							<article class="col-4 col-12-mobile special">
-								<a href="#" class="image featured"><img src="../static/img/pic09.jpg" alt="" /></a>
-								<header>
-									<h3><a href="#">Ji-Oh Kim</a></h3>
-								</header>
-								<p>
-									I am scared of Fish and Birds because they never close their eyes...
-								</p>
-							</article>
-							<article class="col-4 col-12-mobile special">
-								<a href="#" class="image featured"><img src="../static/img/pic09.jpg" alt="" /></a>
-								<header>
-									<h3><a href="#">Shivi</a></h3>
-								</header>
-								<p>
-								Fun fact about shivi
-								</p>
-							</article>
-						</div>
-					</section>
+  <!-- About Section -->
+  <section id="about">
+    <div class="about container">
+      <div class="col-left">
+        <div class="about-img">
+          <img src="../static/img/me.png" alt="img">
+        </div>
+      </div>
+      <div class="col-right">
+        <h1 class="section-title">About <span>me</span></h1>
+        <h2>Technology Enthusiast</h2>
+        <p>Hello my name is Gibson Sanchez, I'm currently a Production Engineer Fellow 
+          at Major League Hacking and also a recent graduate from CUNY Baruch
+          College. I love to use all kinds of technologies doesn't matter
+          what kind of technology it is, it can be a new programming
+          language, different Linux distro, etc. but most of all I like to use
+          technology to solve a problems.</p>
+      </div>
+    </div>
+  </section>
+  <!-- End About Section -->
 
-				</div>
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="contact container">
+      <div>
+        <h1 class="section-title">Contact</h1>
+      </div>
+      <div class="contact-items">
+        <div class="contact-item">
+          <div class="icon"><a href="https://www.linkedin.com/in/gibson-sanchez/"><img src="../static/img/Linkedin-Logo.png" /></a></div>
+          <div class="icon"><a href="https://github.com/sgibson19"><img src="../static/img/github-mark.png" /></a></div>
+    </div>
+  </section>
+  <!-- End Contact Section -->
 
-			<!-- Footer -->
-				<div id="footer">
-								<!-- Copyright -->
-									<div class="copyright">
-										<ul class="menu">
-											<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-										</ul>
-									</div>
-							</div>
-						</div>
-					</div>
-				</div>
-		</div>
+  <div class="footer">
+	  <p class="footer-font-color">Gibson Sanchez | Coded with ❤️</p>
+  </div>
+  
+  <script src="../static/js/app.js"></script>
+</body>
 
-		<!-- Scripts -->
-			<script src="../static/assets/js/jquery.min.js"></script>
-			<script src="../static/assets/js/jquery.dropotron.min.js"></script>
-			<script src="../static/assets/js/jquery.scrolly.min.js"></script>
-			<script src="../static/assets/js/jquery.scrollex.min.js"></script>
-			<script src="../static/assets/js/browser.min.js"></script>
-			<script src="../static/assets/js/breakpoints.min.js"></script>
-			<script src="../static/assets/js/util.js"></script>
-			<script src="../static/assets/js/main.js"></script>
-
-	</body>
 </html>
