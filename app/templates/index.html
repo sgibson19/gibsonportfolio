@@ -5,6 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../static/styles/style.css">
+  <link rel="shortcut icon" href="../static/img/favicon.ico"/>
   <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -21,11 +22,7 @@
   <section id="header">
     <div class="header container">
       <div class="nav-bar">
-        <!-- <div class="brand">
-          <a href="#hero">
-            <h1><span>G</span>ibson<span>S</span>anchez</h1>
-          </a>
-        </div> -->
+        
         <div class="nav-list">
           <div class="hamburger">
             <div class="bar"></div>
@@ -33,7 +30,7 @@
           <ul>
             <li><a href="#hero" data-after="Home">Home</a></li>
             <li><a href="#projects" data-after="Projects">Projects</a></li>
-            <li><a href="#about" data-after="About">About</a></li>
+            <li><a href="#about" data-after="About">About Me</a></li>
             <li><a href="#contact" data-after="Contact">Contact</a></li>
           </ul>
         </div>
@@ -50,7 +47,6 @@
         <h1>Hello, <span></span></h1>
         <h1>My Name is <span></span></h1>
         <h1>Gibson <span></span></h1>
-        <!-- <a href="#projects" type="button" class="cta">Portfolio</a> -->
       </div>
     </div>
   </section>
@@ -64,29 +60,32 @@
         <h1 class="section-title"><span>Projects</span></h1>
       </div>
       <div class="all-projects">
+		<div class="project-item">
+			<div class="project-info">
+			  <h1>MyBudget.</h1>
+			  <h2></h2>
+			  <p>MyBudget. is a web application that helps users track their income and expenses, has
+				  voice integration by using Speechly API to provide a better UI experience.
+			  </p>
+			</div>
+			<div class="project-img">
+			  <a href="https://glacial-fjord-40189.herokuapp.com/home"><img src="../static/img/mybudget.png"></a>
+			</div>
+		  </div>
         <div class="project-item">
           <div class="project-info">
             <h1>FIFA World Cup Quiz</h1>
             <h2></h2>
-            <p> FIFA World Cup quiz I created using the MERN stack and SendGrid. The main reason I created this project was to learn 
-            about login authentication, almost every app we use has some sort of login authenication.</p>
+            <p>FIFA World Cup Quiz is a web application where football/soccer fans can test their 
+				knowledge about the sport. Used JWT to allow registered users to access the quiz and SendGrid to 
+				allow users to receive a link to reset their passwords through their email.
+			</p>
           </div>
           <div class="project-img">
             <a href="https://pure-sands-13311.herokuapp.com/home"><img src="../static/img/quiz.png"></a>
           </div>
         </div>
-        <div class="project-item">
-          <div class="project-info">
-            <h1>MyBudget.</h1>
-            <h2></h2>
-            <p>MyBudget. is a web application using the MERN stack, designed in Material-UI, and uses Speechly API for voice integration. I created it so I can see what am I'm spending
-              my money on and most of all to avoid those "pending transactions" from bank accounts. By pending transactions, I mean when you purchased something with your 
-              debit/credit card, it sometimes doesn't show the correct date of the purchase. This issue led to create this web application for my own personal use, now I know the specific dates of each purchase.</p>
-          </div>
-          <div class="project-img">
-            <a href="https://glacial-fjord-40189.herokuapp.com/home"><img src="../static/img/mybudget.png"></a>
-          </div>
-        </div>
+        
        
     </div>
   </section>
@@ -107,7 +106,7 @@
           at Major League Hacking and also a recent graduate from CUNY Baruch
           College. I love to use all kinds of technologies doesn't matter
           what kind of technology it is, it can be a new programming
-          language, different Linux distro, etc. but most all I like to use
+          language, different Linux distro, etc. but most of all I like to use
           technology to solve a problems.</p>
       </div>
     </div>
@@ -128,6 +127,9 @@
   </section>
   <!-- End Contact Section -->
 
+  <div class="footer">
+	  <p class="footer-font-color">Gibson Sanchez | Coded with ❤️</p>
+  </div>
   
   <script src="../static/js/app.js"></script>
 </body>
