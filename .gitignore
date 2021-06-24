@@ -1,4 +1,5 @@
-.python3-virtualenv
+.venv
 __pycache__
 *.pyc
-.python3-virtualenv
+.env
+python3-virtualenv
