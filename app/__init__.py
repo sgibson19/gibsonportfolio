@@ -4,6 +4,7 @@ from werkzeug.security import check_password_hash, generate_password_hash
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 
+
 #load_dotenv()
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql+psycopg2://{user}:{passwd}@{host}:{port}/{table}'.format(
@@ -12,6 +13,8 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql+psycopg2://{user}:{passwd}@{
     host=os.getenv('POSTGRES_HOST'),
     port=5432,
     table=os.getenv('POSTGRES_DB'))
+
+print(app.config['SQLALCHEMY_DATABASE_URI'])
     
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
@@ -75,7 +78,7 @@ def login():
 
         if user is None:
             error = 'Incorrect username.'
-        elif not check_password_hash(user['password'], password):
+        elif not check_password_hash(user.password, password):
             error = 'Incorrect password.'
 
         if error is None:
