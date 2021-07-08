@@ -88,7 +88,3 @@ def login():
     
     ## TODO: Return a login page
     return render_template("login.html")
-
-@app.route('/newpage', methods=["GET", "POST"])
-def newpage():
-    return render_template("newpage.html")
