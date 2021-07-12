@@ -30,3 +30,17 @@ jobs:
 
       - name: Deploy site
         run: ssh my-vm 'cd ${{ secrets.PROJECT_ROOT }} && git fetch && git reset --hard origin/master && docker-compose up -d --build'
+
+      - name: Centosaurus failed alert
+        if: ${{ failure() }}
+        run: curl -s -X POST "${{ secrets.DISCORD_WEBHOOK }}" -d "content=👾 Deployment Failed!"
+
+      - name: Centosaurus success alert
+        if: ${{ success() }}
+        run: curl -s -X POST "${{ secrets.DISCORD_WEBHOOK }}" -d "content=🚀 Deployment Successful"
+
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Test endpoints
+        run: bash test.sh
